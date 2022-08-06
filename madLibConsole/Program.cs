@@ -24,7 +24,6 @@ namespace madLibConsole
             Console.WriteLine(pluralNoun + " are blue");
             Console.WriteLine("I love " + celebrity);
 
-            Console.WriteLine(" ");
 
             Console.ReadLine();
         }
